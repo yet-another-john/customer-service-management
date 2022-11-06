@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Documents\CustomerServiceManagementWF\bin\Debug\CustomerServiceManagementWF.exe.config
+C:\Users\Lenovo\Documents\CustomerServiceManagementWF\bin\Debug\CustomerServiceManagementWF.exe
+C:\Users\Lenovo\Documents\CustomerServiceManagementWF\bin\Debug\CustomerServiceManagementWF.pdb
+C:\Users\Lenovo\Documents\CustomerServiceManagementWF\obj\Debug\CustomerServiceManagementWF.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\CustomerServiceManagementWF\obj\Debug\CustomerServiceManagementWF.Properties.Resources.resources
+C:\Users\Lenovo\Documents\CustomerServiceManagementWF\obj\Debug\CustomerServiceManagementWF.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\CustomerServiceManagementWF\obj\Debug\CustomerServiceManagementWF.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\CustomerServiceManagementWF\obj\Debug\CustomerServiceManagementWF.exe
+C:\Users\Lenovo\Documents\CustomerServiceManagementWF\obj\Debug\CustomerServiceManagementWF.pdb
+C:\Users\Lenovo\Documents\CustomerServiceManagementWF\obj\Debug\CustomerServiceManagementWF.MainForm.resources
