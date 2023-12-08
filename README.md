@@ -1,1 +1,1 @@
-Customer Service Management App
+Customer Service Management Application
